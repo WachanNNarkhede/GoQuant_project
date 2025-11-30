@@ -11,7 +11,7 @@ A real-time 3D visualization platform that monitors cryptocurrency exchange serv
 
 [![Deploy with Vercel](https://vercel.com/button)](https://your-app-name.vercel.app)
 
-**Live Application:** [https://your-app-name.vercel.app](https://your-app-name.vercel.app)
+**Live Application:** https://go-quant-project.vercel.app/
 
 ## 📋 Table of Contents
 
