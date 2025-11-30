@@ -124,12 +124,6 @@ text
 
 ### Local Development
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/latency-topology-visualizer.git
-   cd latency-topology-visualizer
-Install dependencies
-
 bash
 npm install
 Run development server
